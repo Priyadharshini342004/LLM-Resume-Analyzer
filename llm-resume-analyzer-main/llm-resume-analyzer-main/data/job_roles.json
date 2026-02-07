@@ -1,0 +1,6 @@
+{
+  "Machine Learning Engineer": ["python", "machine learning", "nlp"],
+  "Data Analyst": ["python", "sql", "data analysis"],
+  "Frontend Developer": ["react", "javascript"],
+  "AI Engineer": ["python", "deep learning", "nlp"]
+}
